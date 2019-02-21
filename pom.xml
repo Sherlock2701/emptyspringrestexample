@@ -7,7 +7,6 @@
   <version>2.0.0</version>
   <name>Empty Spring Rest Example Project</name>
   <description>This is an empty spring boot rest project that uses Tomcat. It was created just to explain a Jenkins deployment.</description>
-	
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
