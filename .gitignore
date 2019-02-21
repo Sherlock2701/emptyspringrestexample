@@ -22,6 +22,8 @@ nbproject
 build
 manifest.mf
 
+#vi	
+ *.swp	
 
 
 #other editors
