@@ -26,7 +26,7 @@ public class EntryPoint extends SpringBootServletInitializer {
   public static void main(String[] args) {
     logger.info("Initializing Spring Boot!");
    SpringApplication.run(EntryPoint.class, args);
-	System.out.println("Akshay");
+	System.out.println("Akshay1");
   }
 
 }
